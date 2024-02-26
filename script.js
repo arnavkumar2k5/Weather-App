@@ -1,4 +1,4 @@
-console.log("Hello World!")
+console.log("Welcome to Weather App")
 
 const apiKey = "162061d8a9f9cdbb7592783062dcb515";
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
